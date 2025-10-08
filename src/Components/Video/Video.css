@@ -1,0 +1,6 @@
+.play-container {
+    padding: 20px 2%;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
